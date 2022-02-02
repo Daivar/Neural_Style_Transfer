@@ -1,6 +1,6 @@
 # Neural_Style_Transfer
 
-![image](https://user-images.githubusercontent.com/34160094/152168254-b012fd13-301a-4c6d-bbc1-bb10840f04a4.png)
+![image](https://user-images.githubusercontent.com/34160094/152188438-9dc7bf4c-83b2-4ef0-848d-a9200a5598ed.png)
 
 ![image](https://user-images.githubusercontent.com/34160094/152169274-8b0b49fa-53eb-40e3-b4ed-aea593acad22.png)
 
